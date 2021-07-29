@@ -1,9 +1,9 @@
-Linear-Regression-from-Scratch
+R in the Lab: Linear Regression from Scratch
 ================
 
-Linear Regression from Scratch using R.
+A tutorial explaining how to perform simple linear regression from scratch using linear algebra and calculus.
 
-The post for this repository is available in: [Linear Regression from Scratch](https://r-inthelab.net)
+The post for this repository is available in: [Linear Regression from Scratch](https://r-inthelab.net/2021/07/29/linear-regression-from-scratch/)
 
 Juan Pablo Carreón Hidalgo
 
